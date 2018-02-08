@@ -1,5 +1,5 @@
 //<![CDATA[
-var disqus_shortname="muhamadsahrudin";
+var disqus_shortname="inputekno";
 var disqus_url = disqus_blogger_current_url;
 
 (function () {
